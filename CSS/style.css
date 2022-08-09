@@ -581,7 +581,7 @@ a {
 .block{
     --padding-vertical:6rem;
     padding: var(--padding-vertical) 2rem;
-    border:2px solid red;
+    border:2px solid #fff;
     text-align: center;
 }
 
